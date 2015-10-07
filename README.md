@@ -1,5 +1,6 @@
 # GetSpotify
 ###### Full source from version 0.0.2.1
+![Screenshot](http://i.imgur.com/iLfQExG.png)
 
 ##### Credits
 [JohnnyCrazy](https://github.com/JohnnyCrazy/SpotifyAPI-NET) - Spotify .NET API
